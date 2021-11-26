@@ -92,6 +92,10 @@ DocumentUniqueId=
 DocumentPath=Project Outputs for digital_watch\BOM\Bill of Materials-digital_watch.xlsx
 DItemRevisionGUID=
 
+[GeneratedDocument2]
+DocumentPath=Project Outputs for digital_watch\Design Rule Check - dwatch.html
+DItemRevisionGUID=
+
 [Configuration1]
 Name=Sources
 ParameterCount=0
