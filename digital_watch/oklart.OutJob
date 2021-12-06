@@ -15,7 +15,7 @@ LifeCycleDefinitionGUID=
 RevisionNamingSchemeGUID=
 
 [OutputGroup1]
-Name=Job1.OutJob
+Name=oklart.OutJob
 Description=
 TargetOutputMedium=bom
 VariantName=[No Variations]
@@ -53,24 +53,24 @@ Configuration1_Item1=CaptionAsName
 Configuration1_Name2=General
 Configuration1_Item2=OpenExported=False|AddToProject=False|ReportBOMViolationsInMessages=False|ForceFit=False|NotFitted=False|Database=False|DatabasePriority=False|IncludePcbData=False|IncludeVaultData=False|IncludeCloudData=False|IncludeDocumentData=True|IncludeAlternatives=False|ShowExportOptions=True|TemplateFilename=|TemplateVaultGuid=|TemplateRevisionGuid=|BatchMode=5|FormWidth=1200|FormHeight=710|SupplierProdQty=1|SupplierAutoQty=False|SupplierUseCachedPricing=False|SupplierCurrency=USD|SolutionsPerItem=1|SuppliersPerSolution=1|ViewType=0|UseDirectApi=False|BomSetName=
 Configuration1_Name3=GroupOrder
-Configuration1_Item3=Digikey=True
+Configuration1_Item3=Digikey=True|Value=True
 Configuration1_Name4=SortOrder
 Configuration1_Item4=Footprint=Up
 Configuration1_Name5=VisibleOrder
-Configuration1_Item5=Footprint=120|Quantity=120|Designator=100|Digikey=100
+Configuration1_Item5=Footprint=120|Quantity=120|Designator=100|Digikey=100|Value=100
 Configuration1_Name6=VisibleOrder_Flat
-Configuration1_Item6=Footprint=120|Quantity=120|Designator=100|Digikey=100
+Configuration1_Item6=Footprint=120|Quantity=120|Designator=100|Digikey=100|Value=100
 
 [PublishSettings]
 OutputFilePath2=
 ReleaseManaged2=1
-OutputBasePath2=
+OutputBasePath2=Project Outputs for digital_watch
 OutputPathMedia2=
 OutputPathMediaValue2=
 OutputPathOutputer2=[Output Type]
 OutputPathOutputerPrefix2=
 OutputPathOutputerValue2=
-OutputFileName2=
+OutputFileName2=oklart.PDF
 OutputFileNameMulti2=
 UseOutputNameForMulti2=1
 OutputFileNameSpecial2=
@@ -91,7 +91,7 @@ PDFACompliance2=Disabled
 PDFVersion2=Default
 OutputFilePath3=
 ReleaseManaged3=1
-OutputBasePath3=
+OutputBasePath3=Project Outputs for digital_watch
 OutputPathMedia3=
 OutputPathMediaValue3=
 OutputPathOutputer3=[Output Type]
@@ -104,7 +104,7 @@ OutputFileNameSpecial3=
 OpenOutput3=1
 OutputFilePath4=
 ReleaseManaged4=1
-OutputBasePath4=
+OutputBasePath4=Project Outputs for digital_watch
 OutputPathMedia4=
 OutputPathMediaValue4=
 OutputPathOutputer4=[Output Type]
